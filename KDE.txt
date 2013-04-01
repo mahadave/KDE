@@ -1,0 +1,3 @@
+Convolution, Probabilty Density Functions and Kernel Density Estimation
+
+One of the more useful ways estimating a probability distribution from a given dataset is using kernel density estimation (KDE). The best part KDE is that it is non-parametric, meaning that it does not assume an underlying distribution. In using parametric models such as a Gaussian Mixture Model, one has to set a parameter K which assumes that there are K underlying Gaussian data clusters and that a point belongs to one of these... But what must K be?? Is it 2 or 5 or even 25? There are ways to find that out, but lets focus on 
